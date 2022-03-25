@@ -2,7 +2,9 @@
  ## This is the 1st challenge deliverable containing: 
   * Written Analysis
   * Support Images 
-  * .xlsx file with dataset 
+  * Dataset [Kickstarter Challenge.xlsx](https://github.com/dpiedra86/kickstarter-analysis/blob/main/Kickstarter_Challenge.xlsx)
+  
+  
 
 
   
