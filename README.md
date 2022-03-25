@@ -1,2 +1,2 @@
-# -kickstarter-analysis-repository
+# -kickstarter-analysis
 Challenge 1 deliverable
