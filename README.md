@@ -15,7 +15,8 @@
   
   Failed campaigns were very stable during the whole year oscillating between 50 and 35 for the full year. 
   
-![Outcomes_vs_Goals](https://github.com/dpiedra86/kickstarter-analysis/blob/main/Outcomes_vs_Goals.png).
+![Outcomes_vs_Goals](https://github.com/dpiedra86/kickstarter-analysis/blob/main/Theater_Outcomes_vs_Launch.png)
+>Outcomes vs Goals
 
 If we look at the goals vs pledged we can get a picture of which months are better in terms of revenue. 
 
@@ -23,16 +24,19 @@ If we look at the goals vs pledged we can get a picture of which months are bett
 
 While the whole picture at first glance would mean August is the the month with a highest rate of money pldged.(Img.1GoalvsPledged)
 
-![Img.1GoalvsPledged](https://github.com/dpiedra86/kickstarter-analysis/blob/main/Goal%20Vs%20Pledged.png).
+![Img.1GoalvsPledged](https://github.com/dpiedra86/kickstarter-analysis/blob/main/Goal%20Vs%20Pledged.png)
+>Img.1GoalvsPledged
 
 The reality is that 2014 had an outstanding play that pledged $198,415.01 GBP.
 There are two important things to consider here:
 1. This play is an Outlier, and it is important to deep dive into this. We might get useful insights so we can replicate the same circumstances in other plays and reach higher goals. 
-2. This play is a non-recurrent event and might be important to be kept isolated from the analysis. MEaning the tendencies actually point out that the top perfomring months are April, June and December as mentioned in the previous analysis. (Img.2GoalvsPledged)
-
-![Img.1GoalvsPledged](https://github.com/dpiedra86/kickstarter-analysis/blob/main/Goal%20vs%20Pledged%20Exc.%20Outlier.png).
+2. This play is a non-recurrent event and might be important to be kept isolated from the analysis.(Img.2GoalvsPledged) This means the tendencies actually point out that the top perfomring months are April, June and December as mentioned in the previous analysis. (Outcomes vs Goals)
 
 
+![Img.1GoalvsPledged](https://github.com/dpiedra86/kickstarter-analysis/blob/main/Goal%20vs%20Pledged%20Exc.%20Outlier.png)
+>Img.2GoalvsPledged
 
 
- ### Outcomes based on launch
+ ### Outcomes based on goals
+ 
+ 
