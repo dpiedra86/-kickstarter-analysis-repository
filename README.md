@@ -1,5 +1,10 @@
 # An Analysis for Kickstartet Campaign 
-  This repository contains challenge 1st deliverable in full: Analysis + Support Data
+  This is the 1st challenge deliverable containing: 
+  * Written Analysis
+  * Support Images 
+  * .xlsx file with dataset 
+
+
   
   ##
   
