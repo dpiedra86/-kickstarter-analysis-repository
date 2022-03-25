@@ -13,7 +13,7 @@
   Based on launchdates analysis succesful campaigns had a top performance during the month of May. It is recomndable to keep in mind June and July as high performing months. This could be related due to summer activities. 
   Succesfull campaigns represent the 60% of the years activity with 839 while failed campaigns represent the 35%. Cancelled and Live campaigns are too low to be relevant. 
   
-  Failed campaigns were very stable during the whole year oscillating between 50 and 35 for the full year. 
+  Failed campaigns are very stable during the whole year oscillating between 50 and 35 per month.
   
 ![Outcomes_based_on launchdates](https://github.com/dpiedra86/kickstarter-analysis/blob/main/Theater_Outcomes_vs_Launch.png)
 >Outcomes based on launchdates
