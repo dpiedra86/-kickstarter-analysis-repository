@@ -23,5 +23,14 @@
 
 Other interesting POV is while looking the number of succesful campaigns vs the number of failed campaigns. 
 
+While in the graph we can see that the highest succesful campaign are in between the 1000 to 4999 range and the highest failed campaigns are in between 25000 and 29999 respectively, this information isn't much by itself. When we take a look at the number of campaigns in total in the first range (1000 - 4999) we have 534 in total, while in the other range (25000 - 29999) we only have 5. 
+We can't compare this numbers, but only will tell us, that as the goal is higher the fail rate will increase in the same manner.  So better results, while the lower the goal.
+
+We could say that is safe in a 15,000 limit.
+
+What we can actually say is that in a total of 1047 campaigns 37% were succesfull in a range of 1000 - 4999 while 14% where failed. This means that this range for a goal is optimal, where we can double the chances of success and it will be quite safe to make our bets. 
+
+![Outcomes_based_on_goals](https://github.com/dpiedra86/kickstarter-analysis/blob/main/Outcomes_vs_Goals.png)
+>Outcomes_based_on_goals
  
  
