@@ -31,6 +31,6 @@ We could say that is safe in a 15,000 limit.
 What we can actually say is that in a total of 1047 campaigns 37% were succesfull in a range of 1000 - 4999 while 14% where failed. This means that this range for a goal is optimal, where we can double the chances of success and it will be quite safe to make our bets. 
 
 ![Outcomes_based_on_goals](https://github.com/dpiedra86/kickstarter-analysis/blob/main/Outcomes_vs_Goals.png)
->Outcomes_based_on_goals
+>Outcomes based on goals
  
  
